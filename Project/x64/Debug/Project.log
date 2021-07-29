@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\adamw\Desktop\Projekt RayTracing\Project\Project\Source.cpp(263,11): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\adamw\Desktop\Projekt RayTracing\Project\Project\Source.cpp(265,12): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\adamw\Desktop\Projekt RayTracing\Project\Project\Source.cpp(284,30): warning C4244: "=": konwersja z "const _Ty" do "GLubyte", możliwa utrata danych
+          with
+          [
+              _Ty=float
+          ]
+  Project.vcxproj -> C:\Users\adamw\Desktop\Projekt RayTracing\Project\x64\Debug\Project.exe
